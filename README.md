@@ -23,5 +23,5 @@ jqコマンドは、JSONデータの処理と操作を行うためのコマン�
 pip install openpyxl
 ```
 
-OpenPyXLは、PythonでExcelファイルを操作するためのライブラリです。
+OpenPyXLは、PythonでExcelファイルを操作するためのライブラリです
 このライブラリを使用すると、Excelファイルの作成、読み込み、編集、保存などを行うことができます。
